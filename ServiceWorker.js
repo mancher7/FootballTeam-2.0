@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-FootballTeam 2.0-0.1.0";
 const contentToCache = [
     "Build/FootballTeam-2.0.loader.js",
-    "Build/FootballTeam-2.0.framework.js.gz",
-    "Build/FootballTeam-2.0.data.gz",
-    "Build/FootballTeam-2.0.wasm.gz",
+    "Build/FootballTeam-2.0.framework.js",
+    "Build/FootballTeam-2.0.data",
+    "Build/FootballTeam-2.0.wasm",
     "TemplateData/style.css"
 
 ];
